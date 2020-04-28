@@ -1,4 +1,4 @@
-# "Real or NOT" : NLP to Identify Public Emergency Related Tweets (Part One)
+# "Real or NOT" : NLP to Identify Public Emergency Related Tweets (Part 1)
 
 
 ## Introduction
